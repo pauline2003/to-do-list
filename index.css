@@ -1,0 +1,16 @@
+.image {
+  background-image: url("./images/bg-desktop-dark.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: auto;
+  height: 250px;
+  font-family: "Roboto", sans-serif;
+  color: #444;
+  .h1 {
+  }
+}
+.ul {
+  align-items: center;
+  margin-left: 50%;
+  list-style: none;
+}
